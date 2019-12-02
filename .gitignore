@@ -1,0 +1,9 @@
+*.*~
+*.py[cd]
+*.pth
+*.png
+*.jpg
+*.h5
+*.json
+
+cv/
