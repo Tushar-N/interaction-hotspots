@@ -3,7 +3,7 @@
 # echo "Data downloaded. Extracting files..."
 
 # download data from the link below and save to data/hotspots-data.tar.gz:
-# https://drive.google.com/file/d/1RvlMf9tv6Hi5oNE9xtG18x7uDoBAWqJz/view?usp=sharing 
+# https://utexas.box.com/s/teku8f66gigeg7qjqzieje95lxnz5r80
 
 tar -zxvf data/hotspots-data.tar.gz
 rm -r data/hotspots-data.tar.gz
